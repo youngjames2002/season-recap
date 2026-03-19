@@ -1,0 +1,14 @@
+# State file contains API key — never commit this
+.season_recap_state
+
+# Log file from last run
+log.txt
+
+# Output files
+*.csv
+*.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
