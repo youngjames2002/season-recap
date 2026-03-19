@@ -1,4 +1,4 @@
-# Season Recap
+# Season Recap - TEST CHANGE
 
 A desktop tool for Super Smash Bros. Ultimate ranking panels. Given a list of start.gg event URLs and a list of players, it pulls all their results via the start.gg API and produces a formatted season recap — placements, win rates, head-to-head records, wins, and losses — ready for panel discussion.
 
